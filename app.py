@@ -11,7 +11,7 @@ def get_connection():
     return mysql.connector.connect(
         host="127.0.0.1",
         user="root",       # ← change this
-        password="Nvsd1997@",   # ← change this
+        password="anurag2006",   # ← change this
         database="career_buddy"
     )
 
